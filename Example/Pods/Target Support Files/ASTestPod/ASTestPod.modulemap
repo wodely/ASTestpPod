@@ -1,0 +1,6 @@
+framework module ASTestPod {
+  umbrella header "ASTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
